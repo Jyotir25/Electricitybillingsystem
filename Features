@@ -1,0 +1,16 @@
+🧾 Features
+Input customer details and units consumed
+
+Calculates bill based on slab:
+
+₹5/unit (up to 100 units)
+
+₹7/unit (101-200)
+
+₹10/unit (201+)
+
+Saves bills in a local file
+
+View previous billing history
+
+Clear form and exit option
